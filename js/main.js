@@ -1,6 +1,6 @@
 // In het inputveld doen we een get element en maken we een event (keyup).
 // Daarna wil ik verkrijgen wat er daadwerkelijk wordt ingevoerd.
-// Ik maak een variabele om wat de input is daar in te verzamelen. naam van de variabele is userName
+// Ik maak een variabele om wat de input is daar in te verzamelen. naam van de variabele is pokemon
 
 $("#searchUser").on("keyup", function(event) {
   let pokemon = event.target.value;

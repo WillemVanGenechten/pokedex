@@ -31,4 +31,4 @@ Laat je webpagina er uitzien als een pokédex m.b.v. een klein beetje CSS / SCSS
 
 _Note: Indien je klaar bent met alle "core features", kan je kijken wat de API nog allemaal te bieden heeft, en voeg je eventueel nog wat "features" toe._
 
-![Pokedex](pokedex.jpg)
+## link: https://willemvangenechten.github.io/pokedex/
